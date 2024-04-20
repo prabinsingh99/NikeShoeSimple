@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.categorybtn {
+  height: 40px;
+  background-color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 5px;
+  padding: 5px 10px 5px 10px;
+  border: 2px solid gray;
+  border-radius: 2px;
+  color: gray;
+  font-weight: bolder;
+}

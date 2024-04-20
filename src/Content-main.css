@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.main-con {
+  margin-left: 40px;
+  margin-right: 40px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin-top: 40px;
+  gap: 20px;
+}
+
+.smain-con {
+  height: 513px;
+  width: 495px;
+}
+
+.main-header-title h1 {
+  font-size: 78px;
+  font-weight: bolder;
+}
+
+.decriptionmain-par {
+  width: 250px;
+  font-weight: bold;
+  color: gray;
+  font-size: 10px;
+}
+.shopcatbtn {
+  display: flex;
+  gap: 40px;
+  align-content: center;
+}
+
+.logo-shoeimage {
+  height: 600px;
+  width: 600px;
+}

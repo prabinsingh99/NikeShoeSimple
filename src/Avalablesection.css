@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.alsoavaliable-par {
+  color: gray;
+  font-size: 15px;
+  margin-top: 30px;
+}
+
+.alsoavilable-sites {
+  display: flex;
+  gap: 30px;
+}
+
+.onslogo {
+  margin-top: 15px;
+  height: 20px;
+  width: 20px;
+}

@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.shopbtn {
+  height: 40px;
+  background-color: #d01c28;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 5px;
+  padding: 5px 10px 5px 10px;
+  border: none;
+  border-radius: 2px;
+  color: white;
+  font-weight: bolder;
+}
